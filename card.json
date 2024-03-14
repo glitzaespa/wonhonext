@@ -1,10 +1,13 @@
 {
-"test": [
+"IVGA-IA1": [
   {
-    "XP":"<:X_:1104449635986194602>",
-    "X":"<:X_:1104449632890798091>",
-    "R":"<:R_:1104449630659428372>",
-    "C":"<:C_:1104449628876841030>"
+    "idol":"Gaeul",
+    "group":"IVE",
+    "theme":"I AM",
+    "min":"0",
+    "max":"500",
+    "music":"I AM",
+    "static":"https://starpathnext.b-cdn.net/card/ive/iam/gaeul/1.png",
   }
   ]
 }
