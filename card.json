@@ -1,13 +1,110 @@
 {
-"IVGA_IA1": [
+"ZBZH_IB1": [
   {
-    "idol":"Gaeul",
-    "group":"IVE",
-    "theme":"I AM",
+    "idol":"Zhang Hao",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
     "min":"0",
     "max":"500",
-    "music":"I AM",
-    "static":"https://starpathnext.b-cdn.net/card/ive/iam/gaeul/1.png"
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203335/card/zerobaseone/in_bloom/1/zhang_hao_tr1rnn.png",
+    "rarity":"★☆☆",
+  }
+  ],
+"ZBSHB_IB1": [
+  {
+    "idol":"Sung Han Bin",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
+    "min":"0",
+    "max":"500",
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203334/card/zerobaseone/in_bloom/1/sung_han_bin_lbyewe.png",
+    "rarity":"★☆☆",
+  }
+  ],
+"ZBSMT_IB1": [
+  {
+    "idol":"Seok Matthew",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
+    "min":"0",
+    "max":"500",
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203333/card/zerobaseone/in_bloom/1/seok_matthew_gyydd7.png",
+    "rarity":"★☆☆",
+  }
+  ],
+"ZBRC_IB1": [
+  {
+    "idol":"Ricky",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
+    "min":"0",
+    "max":"500",
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203331/card/zerobaseone/in_bloom/1/ricky_jxm3ho.png",
+    "rarity":"★☆☆",
+  }
+  ],
+"ZBPGW_IB1": [
+  {
+    "idol":"Park Gun Wook",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
+    "min":"0",
+    "max":"500",
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203328/card/zerobaseone/in_bloom/1/park_gun_wook_pfn148.png",
+    "rarity":"★☆☆",
+  }
+  ],
+"ZBKTR_IB1": [
+  {
+    "idol":"Kim Tae Rae",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
+    "min":"0",
+    "max":"500",
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203327/card/zerobaseone/in_bloom/1/kim_tae_rae_hrqw66.png",
+    "rarity":"★☆☆",
+  }
+  ],
+"ZBKJW_IB1": [
+  {
+    "idol":"Kim Ji Woong",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
+    "min":"0",
+    "max":"500",
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203325/card/zerobaseone/in_bloom/1/kim_ji_woong_osxmcf.png",
+    "rarity":"★☆☆",
+  }
+  ],
+"ZBKGV_IB1": [
+  {
+    "idol":"Kim Gyu Vin",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
+    "min":"0",
+    "max":"500",
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203324/card/zerobaseone/in_bloom/1/kim_gyu_vin_cvnr5s.png",
+    "rarity":"★☆☆",
+  }
+  ],
+"ZBHYJ_IB1": [
+  {
+    "idol":"Han Yu Jin",
+    "group":"ZEROBASEONE",
+    "theme":"In Bloom",
+    "min":"0",
+    "max":"500",
+    "music":"In Bloom",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711203323/card/zerobaseone/in_bloom/1/han_yu_jin_h9gooh.png",
+    "rarity":"★☆☆",
   }
   ]
 }
