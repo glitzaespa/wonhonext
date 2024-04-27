@@ -563,6 +563,18 @@
     "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
   }
   ],
+"NJMJ_AT1": [
+  {
+    "idol":"Minji",
+    "group":"NewJeans",
+    "theme":"Attention",
+    "min":"0",
+    "max":"500",
+    "music":"Attention",
+    "static":"https://res.cloudinary.com/dh4cjut4w/image/upload/v1711406940/card/newjeans/attention/2/hfcamky3fsr2g0t38uke.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
 "NJHR_AT2": [
   {
     "idol":"Haerin",
