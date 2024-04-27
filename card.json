@@ -613,7 +613,7 @@
   ],
 "SOWH_EO1": [
   {
-    "idol":"WONHO",
+    "idol":"Wonho",
     "group":"Soloist",
     "theme":"Eye On You",
     "min":"0",
@@ -625,7 +625,7 @@
   ],
 "SOWH_EO2": [
   {
-    "idol":"WONHO",
+    "idol":"Wonho",
     "group":"Soloist",
     "theme":"Eye On You",
     "min":"500",
@@ -637,13 +637,841 @@
   ],
 "SOWH_EO3": [
   {
-    "idol":"WONHO",
+    "idol":"Wonho",
     "group":"Soloist",
     "theme":"Eye On You",
     "min":"1500",
     "max":"5000",
     "music":"Eye On You",
     "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/wonho/eye_on_you/3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"VVEH_MN1": [
+  {
+    "idol":"Eunha",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"0",
+    "max":"500",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/1/mc_eunha.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"VVSB_MN1": [
+  {
+    "idol":"SinB",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"0",
+    "max":"500",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/1/mc_sinb.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"VVUJ_MN1": [
+  {
+    "idol":"Umji",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"0",
+    "max":"500",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/1/mc_umji.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"VVEH_MN2": [
+  {
+    "idol":"Eunha",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"500",
+    "max":"1500",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/2/mc_eunha_2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"VVSB_MN2": [
+  {
+    "idol":"SinB",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"500",
+    "max":"1500",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/2/mc_sinb_2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"VVUJ_MN2": [
+  {
+    "idol":"Umji",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"500",
+    "max":"1500",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/2/mc_umji_2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"VVEH_MN3": [
+  {
+    "idol":"Eunha",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"1500",
+    "max":"5000",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/3/mc_euhna_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"VVUJ_MN3": [
+  {
+    "idol":"Umji",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"1500",
+    "max":"5000",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/3/mc_umji_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"VVSB_MN3": [
+  {
+    "idol":"SinB",
+    "group":"VIVIZ",
+    "theme":"MANIAC",
+    "min":"1500",
+    "max":"5000",
+    "music":"MANIAC",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/viviz/maniac/3/mc_sinv_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"RVIR_FM1": [
+  {
+    "idol":"Irene",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"0",
+    "max":"500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/1/irene_fmr_tier1.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"RVSG_FM1": [
+  {
+    "idol":"Seulgi",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"0",
+    "max":"500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/1/seulgi_fmr_tier1.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"RVWD_FM1": [
+  {
+    "idol":"Wendy",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"0",
+    "max":"500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/1/wendy_fmr_tier1.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"RVJO_FM1": [
+  {
+    "idol":"Joy",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"0",
+    "max":"500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/1/joy_fmr_tier1.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"RVYR_FM1": [
+  {
+    "idol":"Yeri",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"0",
+    "max":"500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/1/yeri_fmr_tier1.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"RVIR_FM2": [
+  {
+    "idol":"Irene",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"500",
+    "max":"1500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/2/irene_fmr_tier2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"RVSG_FM2": [
+  {
+    "idol":"Seulgi",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"500",
+    "max":"1500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/2/seulgi_fmr_tier2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"RVWD_FM2": [
+  {
+    "idol":"Wendy",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"500",
+    "max":"1500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/2/wendy_fmr_tier2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"RVJO_FM2": [
+  {
+    "idol":"Joy",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"500",
+    "max":"1500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/2/joy_fmr_tier2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"RVYR_FM2": [
+  {
+    "idol":"Yeri",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"500",
+    "max":"1500",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/2/yeri_fmr_tier2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"RVIR_FM3": [
+  {
+    "idol":"Irene",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"1500",
+    "max":"5000",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/3/irene_fmr_tier3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"RVSG_FM3": [
+  {
+    "idol":"Seulgi",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"1500",
+    "max":"5000",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/3/seulgi_fmr_tier3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"RVWD_FM3": [
+  {
+    "idol":"Wendy",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"1500",
+    "max":"5000",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/3/wendy_fmr_tier3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"RVJO_FM3": [
+  {
+    "idol":"Joy",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"1500",
+    "max":"5000",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/3/joy_fmr_tier3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"RVYR_FM3": [
+  {
+    "idol":"Yeri",
+    "group":"Red Velvet",
+    "theme":"Feel My Rhythm",
+    "min":"1500",
+    "max":"5000",
+    "music":"Feel My Rhythm",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet/feel_my_rhythm/3/yeri_fmr_tier3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"SOSL_WU1": [
+  {
+    "idol":"Seola",
+    "group":"Soloist",
+    "theme":"Without U",
+    "min":"0",
+    "max":"500",
+    "music":"Without U",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/seola/without_u/IMG_7771.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"SOSL_WU2": [
+  {
+    "idol":"Seola",
+    "group":"Soloist",
+    "theme":"Without U",
+    "min":"500",
+    "max":"1500",
+    "music":"Without U",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/seola/without_u/IMG_7772.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"SOSL_WU3": [
+  {
+    "idol":"Seola",
+    "group":"Soloist",
+    "theme":"Without U",
+    "min":"1500",
+    "max":"5000",
+    "music":"Without U",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/seola/without_u/IMG_7773.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"OECR_AF1": [
+  {
+    "idol":"Choerry",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"0",
+    "max":"500",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/1/tier_1_13.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"OEKL_AF1": [
+  {
+    "idol":"Kim Lip",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"0",
+    "max":"500",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/1/tier_1_14.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"OEJS_AF1": [
+  {
+    "idol":"JinSoul",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"0",
+    "max":"500",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/1/tier_1_15.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"OEKL_AF2": [
+  {
+    "idol":"Kim Lip",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"500",
+    "max":"1500",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/2/tier_2_2_8.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"OEJS_AF2": [
+  {
+    "idol":"JinSoul",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"500",
+    "max":"1500",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/2/tier_2_2_9.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"OECR_AF2": [
+  {
+    "idol":"Choerry",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"500",
+    "max":"1500",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/2/tier_2_2_10.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"OECR_AF3": [
+  {
+    "idol":"Choerry",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"1500",
+    "max":"5000",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/3/tier_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"OEJS_AF3": [
+  {
+    "idol":"JinSoul",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"1500",
+    "max":"5000",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/3/tier_3_2.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"OEKL_AF3": [
+  {
+    "idol":"Kim Lip",
+    "group":"ODD EYE CIRCLE (ARTMS)",
+    "theme":"Air Force One",
+    "min":"1500",
+    "max":"5000",
+    "music":"Air Force One",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/odd_eye_circle_artms/air_force_one/3/tier_3_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"MSMN_DN1": [
+  {
+    "idol":"Mina",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"0",
+    "max":"500",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/1/IMG_7849.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"MSSN_DN1": [
+  {
+    "idol":"Sana",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"0",
+    "max":"500",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/1/IMG_7850.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"MSMM_DN1": [
+  {
+    "idol":"Momo",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"0",
+    "max":"500",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/1/IMG_7851.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"MSMN_DN2": [
+  {
+    "idol":"Mina",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"500",
+    "max":"1500",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/2/IMG_7852.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"MSSN_DN2": [
+  {
+    "idol":"Sana",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"500",
+    "max":"1500",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/2/IMG_7853.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"MSMM_DN2": [
+  {
+    "idol":"Momo",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"500",
+    "max":"1500",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/2/IMG_7854.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"MSMN_DN3": [
+  {
+    "idol":"Mina",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"1500",
+    "max":"5000",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/3/IMG_7855.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"MSSN_DN3": [
+  {
+    "idol":"Sana",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"1500",
+    "max":"5000",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/3/IMG_7856.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"MSMM_DN3": [
+  {
+    "idol":"Momo",
+    "group":"MISAMO",
+    "theme":"Do not touch",
+    "min":"1500",
+    "max":"5000",
+    "music":"Do not touch",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/misamo/do_not_touch/3/IMG_7857.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"SONY_PO1": [
+  {
+    "idol":"Nayeon",
+    "group":"Soloist",
+    "theme":"POP!",
+    "min":"0",
+    "max":"500",
+    "music":"POP!",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/nayeon/pop/IMG_7807.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"SONY_PO2": [
+  {
+    "idol":"Nayeon",
+    "group":"Soloist",
+    "theme":"POP!",
+    "min":"500",
+    "max":"1500",
+    "music":"POP!",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/nayeon/pop/IMG_7806.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"SONY_PO3": [
+  {
+    "idol":"Nayeon",
+    "group":"Soloist",
+    "theme":"POP!",
+    "min":"1500",
+    "max":"5000",
+    "music":"POP!",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/nayeon/pop/IMG_7805.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"TVMC_RB1": [
+  {
+    "idol":"Max Changmin",
+    "group":"TVXQ!",
+    "theme":"Rebel",
+    "min":"0",
+    "max":"500",
+    "music":"Rebel",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/tvxq/rebel/1/rebel_mc.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"TVUK_RB1": [
+  {
+    "idol":"U-Know",
+    "group":"TVXQ!",
+    "theme":"Rebel",
+    "min":"0",
+    "max":"500",
+    "music":"Rebel",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/tvxq/rebel/1/rebel_uk.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"TVUK_RB2": [
+  {
+    "idol":"U-Know",
+    "group":"TVXQ!",
+    "theme":"Rebel",
+    "min":"500",
+    "max":"1500",
+    "music":"Rebel",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/tvxq/rebel/2/rebel_uk_2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"TVMC_RB2": [
+  {
+    "idol":"Max Changmin",
+    "group":"TVXQ!",
+    "theme":"Rebel",
+    "min":"500",
+    "max":"1500",
+    "music":"Rebel",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/tvxq/rebel/2/rebel_mc_2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"TVUK_RB3": [
+  {
+    "idol":"U-Know",
+    "group":"TVXQ!",
+    "theme":"Rebel",
+    "min":"1500",
+    "max":"5000",
+    "music":"Rebel",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/tvxq/rebel/3/rebel_uk_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"TVMC_RB3": [
+  {
+    "idol":"Max Changmin",
+    "group":"TVXQ!",
+    "theme":"Rebel",
+    "min":"1500",
+    "max":"5000",
+    "music":"Rebel",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/tvxq/rebel/3/rebel_mc_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"BPJN_SD1": [
+  {
+    "idol":"Jennie",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"0",
+    "max":"500",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/1/IMG_1616.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"BPRS_SD1": [
+  {
+    "idol":"Rosé",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"0",
+    "max":"500",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/1/IMG_1617.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"BPLS_SD1": [
+  {
+    "idol":"Lisa",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"0",
+    "max":"500",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/1/IMG_1618.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"BPJS_SD1": [
+  {
+    "idol":"Jisoo",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"0",
+    "max":"500",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/1/IMG_1615.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"BPLS_SD2": [
+  {
+    "idol":"Lisa",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"500",
+    "max":"1500",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/2/IMG_1704.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"BPJN_SD2": [
+  {
+    "idol":"Jennie",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"500",
+    "max":"1500",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/2/IMG_1702.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"BPRS_SD2": [
+  {
+    "idol":"Rosé",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"500",
+    "max":"1500",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/2/IMG_1703.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"BPJS_SD2": [
+  {
+    "idol":"Jisoo",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"500",
+    "max":"1500",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/2/IMG_1701.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"BPRS_SD3": [
+  {
+    "idol":"Rosé",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"1500",
+    "max":"5000",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/3/IMG_1644.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"BPJS_SD3": [
+  {
+    "idol":"Jisoo",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"1500",
+    "max":"5000",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/3/IMG_1642.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"BPJN_SD3": [
+  {
+    "idol":"Jennie",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"1500",
+    "max":"5000",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/3/IMG_1643.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"BPLS_SD3": [
+  {
+    "idol":"Lisa",
+    "group":"BLACKPINK",
+    "theme":"Shut Down",
+    "min":"1500",
+    "max":"5000",
+    "music":"Shut Down",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/shut_Down/3/IMG_1645.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"SOTY_WE1": [
+  {
+    "idol":"Taeyeon",
+    "group":"Soloist",
+    "theme":"Weekend",
+    "min":"0",
+    "max":"500",
+    "music":"Weekend",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/taeyeon/weekend/weekend_tier1.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"SOTY_WE2": [
+  {
+    "idol":"Taeyeon",
+    "group":"Soloist",
+    "theme":"Weekend",
+    "min":"500",
+    "max":"1500",
+    "music":"Weekend",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/taeyeon/weekend/weekend_tier2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"SOTY_WE3": [
+  {
+    "idol":"Taeyeon",
+    "group":"Soloist",
+    "theme":"Weekend",
+    "min":"1500",
+    "max":"5000",
+    "music":"Weekend",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/taeyeon/weekend/weekend_tier3.png",
     "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
   }
   ]
