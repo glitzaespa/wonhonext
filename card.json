@@ -610,5 +610,41 @@
     "static":"https://imgur.com/EWP8que",
     "rarity":"<#COLON#3s#COLON#1232133114751615036>"
   }
+  ],
+"SOWH_EO1": [
+  {
+    "idol":"WONHO",
+    "group":"Soloist",
+    "theme":"Eye On You",
+    "min":"0",
+    "max":"500",
+    "music":"Eye On You",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/wonho/eye_on_you/1.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"SOWH_EO2": [
+  {
+    "idol":"WONHO",
+    "group":"Soloist",
+    "theme":"Eye On You",
+    "min":"500",
+    "max":"1500",
+    "music":"Eye On You",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/wonho/eye_on_you/2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"SOWH_EO3": [
+  {
+    "idol":"WONHO",
+    "group":"Soloist",
+    "theme":"Eye On You",
+    "min":"1500",
+    "max":"5000",
+    "music":"Eye On You",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/wonho/eye_on_you/3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
   ]
 }
