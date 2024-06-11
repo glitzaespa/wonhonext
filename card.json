@@ -587,42 +587,6 @@
     "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
   }
   ],
-"SODL_SR1": [
-  {
-    "idol":"Demi Lovato",
-    "group":"Soloist",
-    "theme":"Sorry Not Sorry (Rock Version)",
-    "min":"0",
-    "max":"500",
-    "music":"Sorry Not Sorry (Rock Version)",
-    "static":"https://imgur.com/s6yHD0M",
-    "rarity":"<#COLON#1s#COLON#1232133118492938240>"
-  }
-  ],
-"SODL_SR2": [
-  {
-    "idol":"Demi Lovato",
-    "group":"Soloist",
-    "theme":"Sorry Not Sorry (Rock Version)",
-    "min":"500",
-    "max":"1500",
-    "music":"Sorry Not Sorry (Rock Version)",
-    "static":"https://imgur.com/8O0FpeG",
-    "rarity":"<#COLON#2s#COLON#1232133116521349130>"
-  }
-  ],
-"SODL_SR3": [
-  {
-    "idol":"Demi Lovato",
-    "group":"Soloist",
-    "theme":"Sorry Not Sorry (Rock Version)",
-    "min":"1500",
-    "max":"5000",
-    "music":"Sorry Not Sorry (Rock Version)",
-    "static":"https://imgur.com/EWP8que",
-    "rarity":"<#COLON#3s#COLON#1232133114751615036>"
-  }
-  ],
 "SOWH_EO1": [
   {
     "idol":"Wonho",
