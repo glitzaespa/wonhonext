@@ -1450,5 +1450,53 @@
     "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/taeyeon/weekend/weekend_tier3.png",
     "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
   }
+  ],
+"BPJS_HY1": [
+  {
+    "idol":"Jisoo",
+    "group":"BLACKPINK",
+    "theme":"How You Like That",
+    "min":"0",
+    "max":"500",
+    "music":"How You Like That",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/1/JISOO.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"BPJN_HY1": [
+  {
+    "idol":"Jennie",
+    "group":"BLACKPINK",
+    "theme":"How You Like That",
+    "min":"0",
+    "max":"500",
+    "music":"How You Like That",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/1/JENNIE.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"BPRS_HY1": [
+  {
+    "idol":"Rosé",
+    "group":"BLACKPINK",
+    "theme":"How You Like That",
+    "min":"0",
+    "max":"500",
+    "music":"How You Like That",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/1/ROSÉ.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"BPLS_HY1": [
+  {
+    "idol":"Lisa",
+    "group":"BLACKPINK",
+    "theme":"How You Like That",
+    "min":"0",
+    "max":"500",
+    "music":"How You Like That",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/1/LISA.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
   ]
 }
