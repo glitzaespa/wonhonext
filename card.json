@@ -1498,5 +1498,53 @@
     "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/1/LISA.png",
     "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
   }
+  ],
+"BPJS_HY2": [
+  {
+    "idol":"Jisoo",
+    "group":"BLACKPINK",
+    "theme":"How You Like That",
+    "min":"500",
+    "max":"1500",
+    "music":"How You Like That",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/2/JISOO.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"BPJN_HY2": [
+  {
+    "idol":"Jennie",
+    "group":"BLACKPINK",
+    "theme":"How You Like That",
+    "min":"500",
+    "max":"1500",
+    "music":"How You Like That",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/2/JENNIE.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"BPRS_HY2": [
+  {
+    "idol":"Rosé",
+    "group":"BLACKPINK",
+    "theme":"How You Like That",
+    "min":"500",
+    "max":"1500",
+    "music":"How You Like That",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/2/ROSÉ.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"BPLS_HY2": [
+  {
+    "idol":"Lisa",
+    "group":"BLACKPINK",
+    "theme":"How You Like That",
+    "min":"500",
+    "max":"1500",
+    "music":"How You Like That",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/blackpink/how_you_like_that/2/LISA.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
   ]
 }
