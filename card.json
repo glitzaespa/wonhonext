@@ -2338,5 +2338,185 @@
     "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/2pm/make_it/3/junho2.png",
     "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
   }
+  ],
+"SOYN_SP1": [
+  {
+    "idol":"Yena",
+    "group":"Soloist",
+    "theme":"SMARTPHONE",
+    "min":"0",
+    "max":"500",
+    "music":"SMARTPHONE",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/yena/IMG_7659.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"SOYN_SP2": [
+  {
+    "idol":"Yena",
+    "group":"Soloist",
+    "theme":"SMARTPHONE",
+    "min":"500",
+    "max":"1500",
+    "music":"SMARTPHONE",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/yena/IMG_7658.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"SOYN_SP3": [
+  {
+    "idol":"Yena",
+    "group":"Soloist",
+    "theme":"SMARTPHONE",
+    "min":"1500",
+    "max":"5000",
+    "music":"SMARTPHONE",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/yena/IMG_7657.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"SOMY_DV1": [
+  {
+    "idol":"Miyeon",
+    "group":"Soloist",
+    "theme":"Drive",
+    "min":"0",
+    "max":"500",
+    "music":"Drive",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/miyeon/drive/my.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"SOMY_DV2": [
+  {
+    "idol":"Miyeon",
+    "group":"Soloist",
+    "theme":"Drive",
+    "min":"500",
+    "max":"1500",
+    "music":"Drive",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/miyeon/drive/my1.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"SOMY_DV3": [
+  {
+    "idol":"Miyeon",
+    "group":"Soloist",
+    "theme":"Drive",
+    "min":"1500",
+    "max":"5000",
+    "music":"Drive",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/miyeon/drive/my2.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"ISIR_MT1": [
+  {
+    "idol":"Irene",
+    "group":"Red Velvet - IRENE & SEULGI",
+    "theme":"Monster",
+    "min":"0",
+    "max":"500",
+    "music":"Monster",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet_irene_seulgi/monster/monster_irene.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"ISIR_MT2": [
+  {
+    "idol":"Irene",
+    "group":"Red Velvet - IRENE & SEULGI",
+    "theme":"Monster",
+    "min":"500",
+    "max":"1500",
+    "music":"Monster",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet_irene_seulgi/monster/monster_irene_2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"ISIR_MT3": [
+  {
+    "idol":"Irene",
+    "group":"Red Velvet - IRENE & SEULGI",
+    "theme":"Monster",
+    "min":"1500",
+    "max":"5000",
+    "music":"Monster",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet_irene_seulgi/monster/monster_irene_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"ISSG_MT1": [
+  {
+    "idol":"Seulgi",
+    "group":"Red Velvet - IRENE & SEULGI",
+    "theme":"Monster",
+    "min":"0",
+    "max":"500",
+    "music":"Monster",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet_irene_seulgi/monster/monster_seulgi.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"ISSG_MT2": [
+  {
+    "idol":"Seulgi",
+    "group":"Red Velvet - IRENE & SEULGI",
+    "theme":"Monster",
+    "min":"500",
+    "max":"1500",
+    "music":"Monster",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet_irene_seulgi/monster/monster_seulgi_2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"ISSG_MT3": [
+  {
+    "idol":"Seulgi",
+    "group":"Red Velvet - IRENE & SEULGI",
+    "theme":"Monster",
+    "min":"1500",
+    "max":"5000",
+    "music":"Monster",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/red_velvet_irene_seulgi/monster/monster_seulgi_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
+  ],
+"SOKY_GG1": [
+  {
+    "idol":"Key",
+    "group":"Soloist",
+    "theme":"Good & Great",
+    "min":"0",
+    "max":"500",
+    "music":"Good & Great",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/key/good_great/key_gng.png",
+    "rarity":"<#COLON#1s_2#COLON#1232133112880693312>"
+  }
+  ],
+"SOKY_GG2": [
+  {
+    "idol":"Key",
+    "group":"Soloist",
+    "theme":"Good & Great",
+    "min":"500",
+    "max":"1500",
+    "music":"Good & Great",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/key/good_great/key_gng_2.png",
+    "rarity":"<#COLON#2s_2#COLON#1232133110775283804>"
+  }
+  ],
+"SOKY_GG3": [
+  {
+    "idol":"Key",
+    "group":"Soloist",
+    "theme":"Good & Great",
+    "min":"1500",
+    "max":"5000",
+    "music":"Good & Great",
+    "static":"https://file.garden/ZixjdwQoJTlsDCbB/card/key/good_great/key_gng_3.png",
+    "rarity":"<#COLON#3s_3#COLON#1232133108615221260>"
+  }
   ]
 }
