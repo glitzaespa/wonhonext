@@ -1,0 +1,33 @@
+name: Update Test Image List
+
+on:
+  push:
+    paths:
+      - 'test/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    - name: Generate test.json
+      run: |
+        echo "[" > test.json
+        for file in test/*; do
+          if [[ -f "$file" ]]; then
+            url="https://glitzaespa.github.io/wonhonext/$file"
+            echo "\"$url\"," >> test.json
+          fi
+        done
+        sed -i '$ s/,$//' test.json
+        echo "]" >> test.json
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Update test.json list"
+        file_pattern: test.json
