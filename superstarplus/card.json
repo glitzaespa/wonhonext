@@ -1,0 +1,12 @@
+"ZLMSV": {
+  "name": "Zara Larsson Vocal",
+  "cardstring": "c_l_midnight_sun_v.png"
+},{
+  "ZLMSD": {
+  "name": "Zara Larsson Dance",
+  "cardstring": "c_l_midnight_sun_d.png"
+},{
+  "ZLMSR": {
+  "name": "Zara Larsson Rhythm",
+  "cardstring": "c_l_midnight_sun_r.png"
+}}
