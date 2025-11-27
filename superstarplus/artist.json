@@ -1,5 +1,7 @@
-"zaralarsson": {
-  "name": "Zara Larsson",
-  "banner": "https://file.garden/aSEABnJsaUjzMxbX/bkg_midnightsun.png",
-  "themes": ["midnightsun"]
+{
+  "zaralarsson": {
+    "name": "Zara Larsson",
+    "banner": "https://file.garden/aSEABnJsaUjzMxbX/bkg_midnightsun.png",
+    "themes": "midnightsun"
+  }
 }
