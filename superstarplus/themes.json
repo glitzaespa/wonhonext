@@ -1,5 +1,7 @@
-"midnightsun": {
-  "name": "Midnight Sun",
-  "cardstring": "ZLMSV;ZLMSD;ZLMSR",
-  "type": "LE"
+{
+  "midnightsun": {
+    "name": "Midnight Sun",
+    "cardstring": "ZLMSV;ZLMSD;ZLMSR",
+    "type": "LE"
+  }
 }
