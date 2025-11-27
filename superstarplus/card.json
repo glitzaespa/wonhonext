@@ -1,12 +1,14 @@
-"ZLMSV": {
-  "name": "Zara Larsson Vocal",
-  "file": "c_l_midnight_sun_v.png"
-},{
+{
+  "ZLMSV": {
+    "name": "Zara Larsson Vocal",
+    "file": "c_l_midnight_sun_v.png"
+  },
   "ZLMSD": {
-  "name": "Zara Larsson Dance",
-  "file": "c_l_midnight_sun_d.png"
-},{
+    "name": "Zara Larsson Dance",
+    "file": "c_l_midnight_sun_d.png"
+  },
   "ZLMSR": {
-  "name": "Zara Larsson Rhythm",
-  "file": "c_l_midnight_sun_r.png"
-}}
+    "name": "Zara Larsson Rhythm",
+    "file": "c_l_midnight_sun_r.png"
+  }
+}
