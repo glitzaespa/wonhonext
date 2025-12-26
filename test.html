@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;900&display=swap" rel="stylesheet">
+<style>
+* {
+box-sizing: border-box;
+}
+
+body {
+margin: 0;
+padding: 0;
+font-family: 'Noto Sans KR', sans-serif;
+background: linear-gradient(180deg, #0a0a14 0%, #1a1a2e 100%);
+color: #fff;
+}
+
+.themes-container {
+width: 100%;
+max-width: 1600px;
+margin: 0 auto;
+padding: 40px 20px;
+}
+
+.theme-section {
+margin-bottom: 60px;
+background: rgba(30, 30, 35, 0.6);
+border-radius: 24px;
+padding: 30px;
+border: 2px solid rgba(255, 255, 255, 0.1);
+backdrop-filter: blur(10px);
+box-shadow: inset 0 0 60px rgba(255, 0, 214, 0.15), inset 0 0 30px rgba(117, 0, 235, 0.1);
+}
+
+.theme-header {
+display: flex;
+align-items: center;
+gap: 15px;
+margin-bottom: 25px;
+}
+
+.theme-title {
+font-size: 32px;
+font-weight: 700;
+color: #fff;
+letter-spacing: 0.5px;
+margin: 0;
+}
+
+.theme-year {
+background: linear-gradient(135deg, rgba(255, 0, 214, 0.2) 0%, rgba(117, 0, 235, 0.2) 100%);
+padding: 6px 16px;
+border-radius: 20px;
+font-size: 14px;
+font-weight: 600;
+color: #fff;
+border: 1px solid rgba(255, 0, 214, 0.4);
+box-shadow: inset 0 0 20px rgba(255, 0, 214, 0.15);
+}
+
+.theme-badges {
+display: flex;
+gap: 8px;
+margin-left: auto;
+}
+
+.badge {
+padding: 6px 14px;
+border-radius: 6px;
+font-size: 12px;
+font-weight: 700;
+letter-spacing: 0.3px;
+}
+
+.badge-limited {
+background: linear-gradient(135deg, #ffd700 0%, #ffaa00 100%);
+color: #000;
+box-shadow: 0 0 20px rgba(255, 215, 0, 0.4), inset 0 0 15px rgba(255, 255, 255, 0.3);
+}
+
+.badge-event {
+background: linear-gradient(135deg, #ff6b9d 0%, #c94b7d 100%);
+color: #fff;
+box-shadow: 0 0 20px rgba(255, 107, 157, 0.4), inset 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+.cards-row {
+display: flex;
+gap: 12px;
+overflow-x: auto;
+padding: 10px 0;
+scrollbar-width: thin;
+scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
+}
+
+.cards-row::-webkit-scrollbar {
+height: 8px;
+}
+
+.cards-row::-webkit-scrollbar-track {
+background: rgba(255, 255, 255, 0.05);
+border-radius: 10px;
+}
+
+.cards-row::-webkit-scrollbar-thumb {
+background: rgba(255, 255, 255, 0.2);
+border-radius: 10px;
+}
+
+.cards-row::-webkit-scrollbar-thumb:hover {
+background: rgba(255, 255, 255, 0.3);
+}
+
+.card-item {
+min-width: 140px;
+flex-shrink: 0;
+position: relative;
+cursor: pointer;
+transition: transform 0.3s ease;
+}
+
+.card-item:hover {
+transform: translateY(-8px);
+}
+
+.card-frame {
+width: 100%;
+aspect-ratio: 2/3;
+border-radius: 12px;
+overflow: hidden;
+position: relative;
+}
+
+.card-frame::before {
+content: none;
+}
+
+.card-image {
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
+.card-grade {
+display: none;
+}
+
+.type-toggle {
+display: none;
+}
+
+.toggle-btn {
+flex: 1;
+padding: 12px;
+background: rgba(40, 40, 45, 0.6);
+border: 2px solid rgba(255, 255, 255, 0.1);
+border-radius: 12px;
+color: rgba(255, 255, 255, 0.6);
+font-size: 16px;
+font-weight: 600;
+cursor: pointer;
+transition: all 0.3s ease;
+letter-spacing: 0.5px;
+box-shadow: inset 0 0 30px rgba(255, 0, 214, 0.08);
+}
+
+.toggle-btn:hover {
+border-color: rgba(255, 0, 214, 0.4);
+color: rgba(255, 255, 255, 0.9);
+box-shadow: inset 0 0 40px rgba(255, 0, 214, 0.15);
+}
+
+.toggle-btn.active {
+background: linear-gradient(135deg, rgba(255, 0, 214, 0.3) 0%, rgba(117, 0, 235, 0.3) 100%);
+border-color: rgba(255, 0, 214, 0.6);
+color: #fff;
+box-shadow: 0 0 20px rgba(255, 0, 214, 0.3), inset 0 0 40px rgba(255, 0, 214, 0.2);
+}
+
+@media (max-width: 768px) {
+.theme-section {
+padding: 20px;
+}
+
+.theme-title {
+font-size: 24px;
+}
+
+.theme-header {
+flex-wrap: wrap;
+}
+
+.theme-badges {
+margin-left: 0;
+width: 100%;
+}
+
+.card-item {
+min-width: 110px;
+}
+
+.card-grade {
+width: 24px;
+height: 24px;
+font-size: 14px;
+}
+}
+
+@media (max-width: 480px) {
+.themes-container {
+padding: 20px 10px;
+}
+
+.theme-title {
+font-size: 20px;
+}
+
+.theme-year {
+font-size: 12px;
+padding: 4px 12px;
+}
+
+.card-item {
+min-width: 90px;
+}
+
+.toggle-btn {
+font-size: 14px;
+padding: 10px;
+}
+}
+</style>
+</head>
+<body>
+
+<div class="themes-container">
+<div class="type-toggle">
+<div class="toggle-btn active" data-type="normal">Normal Cards</div>
+<div class="toggle-btn" data-type="prism">Prism Cards</div>
+</div>
+
+<div id="themes-display"></div>
+</div>
+
+<script>
+var tagStyles = {
+limited: {
+gradient: 'linear-gradient(135deg, #ffd700 0%, #ffaa00 100%)',
+textColor: '#000',
+glow: 'rgba(255, 215, 0, 0.4)'
+},
+halloween: {
+gradient: 'linear-gradient(135deg, #ff6b00 0%, #8b0000 100%)',
+textColor: '#fff',
+glow: 'rgba(255, 107, 0, 0.4)'
+},
+christmas: {
+gradient: 'linear-gradient(135deg, #ff0000 0%, #00ff00 100%)',
+textColor: '#fff',
+glow: 'rgba(255, 0, 0, 0.4)'
+},
+valentine: {
+gradient: 'linear-gradient(135deg, #ff6b9d 0%, #c94b7d 100%)',
+textColor: '#fff',
+glow: 'rgba(255, 107, 157, 0.4)'
+},
+summer: {
+gradient: 'linear-gradient(135deg, #00d4ff 0%, #ffd700 100%)',
+textColor: '#000',
+glow: 'rgba(0, 212, 255, 0.4)'
+},
+anniversary: {
+gradient: 'linear-gradient(135deg, #9c27b0 0%, #673ab7 100%)',
+textColor: '#fff',
+glow: 'rgba(156, 39, 176, 0.4)'
+},
+event: {
+gradient: 'linear-gradient(135deg, #ff6b9d 0%, #c94b7d 100%)',
+textColor: '#fff',
+glow: 'rgba(255, 107, 157, 0.4)'
+}
+};
+
+var themesData = [
+{
+name: "Hellevator",
+year: "2018",
+type: "prism",
+tags: [],
+cards: [
+{ image: "https://file.garden/aSEABnJsaUjzMxbX/lilnasx_promo.png" },
+{ image: "https://file.garden/aSEABnJsaUjzMxbX/lilnasx_promo.png" }
+]
+}
+];
+
+function renderThemes() {
+var display = document.getElementById('themes-display');
+
+display.innerHTML = '';
+
+themesData.forEach(function(theme) {
+var section = document.createElement('div');
+section.className = 'theme-section';
+
+var badges = '';
+if (theme.tags && theme.tags.length > 0) {
+theme.tags.forEach(function(tag) {
+var style = tagStyles[tag];
+if (style) {
+badges += '<span class="badge" style="background: ' + style.gradient + '; color: ' + style.textColor + '; box-shadow: 0 0 20px ' + style.glow + ', inset 0 0 15px rgba(255, 255, 255, 0.2);">' + tag.charAt(0).toUpperCase() + tag.slice(1) + '</span>';
+}
+});
+}
+
+var header =
+'<div class="theme-header">' +
+'<h2 class="theme-title">' + theme.name + '</h2>' +
+'<span class="theme-year">' + theme.year + '</span>' +
+'<div class="theme-badges">' + badges + '</div>' +
+'</div>';
+
+var cardsHTML = '<div class="cards-row">';
+theme.cards.forEach(function(card) {
+cardsHTML +=
+'<div class="card-item">' +
+'<div class="card-frame">' +
+'<img src="' + card.image + '" alt="Card" class="card-image">' +
+'</div>' +
+'</div>';
+});
+cardsHTML += '</div>';
+
+section.innerHTML = header + cardsHTML;
+display.appendChild(section);
+});
+}
+
+renderThemes();
+</script>
+
+</body>
+</html>
